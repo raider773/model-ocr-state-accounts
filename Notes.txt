@@ -1,0 +1,4 @@
+aca me conviene balancear en el generator. (pensa que no hay dsitribucion, no me interesa la distribucion. me interesa de donde es y punto
+no que hay mas banergio.)
+
+primero haces normal. desp balanceas,  data aumentation y todas las cosas. pero anda por parte tranquilo
